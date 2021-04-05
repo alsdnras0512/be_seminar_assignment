@@ -39,8 +39,7 @@ INSTALLED_APPS = [
     "django.contrib.staticfiles",
     "rest_framework",
     "posts",
-    "requests_test",
-]
+    ]
 
 REST_FRAMEWORK = {
     "DEFAULT_PERMISSION_CLASSES": [
